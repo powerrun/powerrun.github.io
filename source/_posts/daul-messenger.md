@@ -16,9 +16,12 @@ Dual Messenger默认情况下只为社交应用授权各种权限。因此对于
 授权“相机”权限:
 ```
 adb shell pm grant --user 96 [Package Name] android.permission.CAMERA
+
 ```
 
 特别地，当授权“附近的设备”权限时，因为该权限隐含了不止一个具体权限，因此需要多次授权。
+
+<br>
 
 连接到已配对的蓝牙设备：
 ```
