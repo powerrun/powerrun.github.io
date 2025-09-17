@@ -1,7 +1,13 @@
 ---
 title: Create Lists for Cloudflare Zero Trust by using Terraform
 date: Sep 17, 2025
-tags: Cloudflare, Zero Trust, Lists, Adguard, Adblock, Terraform
+tags:
+  - Cloudflare
+  - Zero Trust
+  - Lists
+  - Adguard
+  - Adblock
+  - Terraform
 ---
 
 # Creating Multiple Lists for Cloudflare Zero Trust with Terraform
